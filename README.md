@@ -35,6 +35,7 @@ $ h init ./hbuild new-project
 
 when you first download [hbuild](https://github.com/hawx1993/hbuild) by hbuild-cli, which can be cached in `/user/home/.hbuild/repos/hbuild`, the next time when you execute `h init project-name` command,which will read from cache.
 
+if online package's version is newer,`hbuild-cli` will download it rather than read it from cache
 
 ## License
 
