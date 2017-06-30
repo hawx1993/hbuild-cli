@@ -3,7 +3,7 @@
 
 <p align="center">
 
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/hbuild-cli)  [![GitHub issues](https://img.shields.io/github/issues/hawx1993/hbuild-cli.svg)](https://github.com/hawx1993/hbuild-cli/issues)  [![GitHub stars](https://img.shields.io/github/stars/hawx1993/hbuild-cli.svg)](https://github.com/hawx1993/hbuild-cli/stargazers)
+[![npm](https://img.shields.io/npm/v/hbuild-cli.svg?style=flat)](https://www.npmjs.com/package/hbuild-cli)  [![GitHub issues](https://img.shields.io/github/issues/hawx1993/hbuild-cli.svg)](https://github.com/hawx1993/hbuild-cli/issues)  [![GitHub stars](https://img.shields.io/github/stars/hawx1993/hbuild-cli.svg)](https://github.com/hawx1993/hbuild-cli/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hawx1993/hbuild-cli/master/LICENSE)
 </p>
 
