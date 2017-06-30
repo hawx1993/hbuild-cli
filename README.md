@@ -10,6 +10,8 @@
 
 this project is a cli tool for [hbuild](https://github.com/hawx1993/hbuild) project, which is used for rapidly build more powerful and easy to use project starter kit
 
+![image](https://user-images.githubusercontent.com/5305263/27747034-2c958296-5dfc-11e7-9364-075c9f613185.png)
+
 ## get started
 
 ```bash
