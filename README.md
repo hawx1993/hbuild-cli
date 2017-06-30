@@ -1,8 +1,9 @@
 
 ## Introduced
 
-<p align='center'>
-[![npm version](https://badge.fury.io/js/hbuild-cli.svg)](https://badge.fury.io/js/hbuild-cli)
+<p align="center">
+
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/hbuild-cli)
 
 [![GitHub issues](https://img.shields.io/github/issues/hawx1993/hbuild-cli.svg)](https://github.com/hawx1993/hbuild-cli/issues)
 
