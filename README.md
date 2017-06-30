@@ -18,7 +18,7 @@ this project is a cli tool for [hbuild](https://github.com/hawx1993/hbuild) proj
 
 ## Usage
 
-``` bash
+```bash
 $ h init new-project
 ```
 
