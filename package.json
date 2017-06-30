@@ -1,6 +1,6 @@
 {
   "name": "hbuild-cli",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "description": "hbuild CLI for rapidly generate projects starter kit.",
   "preferGlobal": true,
   "bin": {
