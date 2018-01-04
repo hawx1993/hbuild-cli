@@ -15,9 +15,7 @@ this project is a cli tool for [hbuild](https://github.com/hawx1993/hbuild) proj
 
 ![image](https://user-images.githubusercontent.com/5305263/27747034-2c958296-5dfc-11e7-9364-075c9f613185.png)
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/gWs9P5H4YpntyAR6x1qG5EkX/hawx1993/hbuild-cli'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/gWs9P5H4YpntyAR6x1qG5EkX/hawx1993/hbuild-cli.svg' />
-</a>
+
 
 ## get started
 
